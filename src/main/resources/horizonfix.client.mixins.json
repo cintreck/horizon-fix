@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.codex.horizonfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "HorizonFixClientDisableTwilightRingMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "client-horizonfix.refmap.json"
+}

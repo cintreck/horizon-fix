@@ -1,0 +1,691 @@
+[18 September 2025 18:52:44 PM] Console Cleared
+[18 September 2025 18:52:46 PM] Preparing for launch!
+[18 September 2025 18:52:46 PM] Launching pack Minecraft 1.21.8 (Vanilla) for Minecraft 1.21.8
+[18 September 2025 18:52:46 PM] Logging into Minecraft!
+[18 September 2025 18:52:46 PM] Using Java runtime java-runtime-delta (Java 21.0.7) at path **USERSDIR**\runtimes\minecraft\java-runtime-delta\windows-x64\java-runtime-delta
+[18 September 2025 18:52:47 PM] Loader: Fabric 0.17.2
+[18 September 2025 18:52:47 PM] Mods:
+[18 September 2025 18:52:47 PM]  - \advancementscreenshot-1.21.8-5.1.jar (Added)
+[18 September 2025 18:52:47 PM]  - \afk-dim-names-1.3.0.jar (Added)
+[18 September 2025 18:52:47 PM]  - \afk-sleep-1.3.2.jar (Added)
+[18 September 2025 18:52:47 PM]  - \Almanac-1.21.5-fabric-1.4.5.jar (Added)
+[18 September 2025 18:52:47 PM]  - \anvilrestoration-1.21.8-2.4.jar (Added)
+[18 September 2025 18:52:47 PM]  - \architectury-17.0.8-fabric.jar (Added)
+[18 September 2025 18:52:47 PM]  - \autohud-8.9+1.21.7-fabric.jar (Added)
+[18 September 2025 18:52:47 PM]  - \BadOptimizations-2.3.0-1.21.6-21.7.jar (Added)
+[18 September 2025 18:52:47 PM]  - \balm-fabric-1.21.8-21.8.6.jar (Added)
+[18 September 2025 18:52:47 PM]  - \better-clouds-1.10.5-alpha+1.21.8-fabric.rev.820b462.jar (Added)
+[18 September 2025 18:52:47 PM]  - \better-selection-1.6.8.jar (Added)
+[18 September 2025 18:52:47 PM]  - \BetterAdvancements-Fabric-1.21.8-0.4.6.45.jar (Added)
+[18 September 2025 18:52:47 PM]  - \betterbiomeblend-1.5.2.jar (Added)
+[18 September 2025 18:52:47 PM]  - \betterconduitplacement-1.21.8-3.4.jar (Added)
+[18 September 2025 18:52:47 PM]  - \betterstats-4.0.0+fabric-1.21.8.jar (Added)
+[18 September 2025 18:52:47 PM]  - \BiomeParticleWeather-5.3.4.jar (Added)
+[18 September 2025 18:52:47 PM]  - \boatiview-fabric-0.0.6-1.21.7.jar (Added)
+[18 September 2025 18:52:47 PM]  - \breakfree-1.4.0.jar (Added)
+[18 September 2025 18:52:47 PM]  - \BundleInventory-Fabric-1.7.2.jar (Added)
+[18 September 2025 18:52:47 PM]  - \c2me-fabric-mc1.21.8-0.3.5+alpha.0.8.jar (Added)
+[18 September 2025 18:52:47 PM]  - \call-your-cat-v1.3.0.jar (Added)
+[18 September 2025 18:52:47 PM]  - \call-your-dog-v1.3.0.jar (Added)
+[18 September 2025 18:52:47 PM]  - \call-your-happy-ghast-v1.0.2.jar (Added)
+[18 September 2025 18:52:47 PM]  - \call-your-horse-v1.3.14.jar (Added)
+[18 September 2025 18:52:47 PM]  - \call-your-parrot-v1.3.0.jar (Added)
+[18 September 2025 18:52:47 PM]  - \cant-sleep-1.0.0.jar (Added)
+[18 September 2025 18:52:47 PM]  - \cave_dust-3.0.1.jar (Added)
+[18 September 2025 18:52:47 PM]  - \centered-crosshair+1.21.6-1.2.0.jar (Added)
+[18 September 2025 18:52:47 PM]  - \chat_heads-0.13.19-fabric-1.21.6.jar (Added)
+[18 September 2025 18:52:47 PM]  - \chunksfadein-fabric-3.0.3-1.21.6.jar (Added)
+[18 September 2025 18:52:47 PM]  - \CleanF3-mc1.20.x-0.4.9.jar (Added)
+[18 September 2025 18:52:47 PM]  - \cloth-config-19.0.147-fabric.jar (Added)
+[18 September 2025 18:52:47 PM]  - \cobweb-fabric-1.21.8-1.3.3.jar (Added)
+[18 September 2025 18:52:47 PM]  - \collective-1.21.8-8.4.jar (Added)
+[18 September 2025 18:52:47 PM]  - \connected-doors-1.3+1.21.2.jar (Added)
+[18 September 2025 18:52:47 PM]  - \continuity-3.0.1-beta.1+1.21.6.jar (Added)
+[18 September 2025 18:52:47 PM]  - \cosmos-1.0.0-1.21.8.jar (Added)
+[18 September 2025 18:52:47 PM]  - \day-counter-1.2.1+fabric-mc1.21-1.21.8.jar (Added)
+[18 September 2025 18:52:47 PM]  - \detect-afk-1.2.2.jar (Added)
+[18 September 2025 18:52:47 PM]  - \difficultylock-1.21.8-4.7.jar (Added)
+[18 September 2025 18:52:47 PM]  - \DualBar-1.0.jar (Added)
+[18 September 2025 18:52:47 PM]  - \durabilityplus_1.20.5-1.1.0.jar (Added)
+[18 September 2025 18:52:47 PM]  - \e4mc_minecraft-fabric-5.4.1.jar (Added)
+[18 September 2025 18:52:47 PM]  - \eg_fix_horizontal_camera_lag-1.1.1-fabric-mc1.20.6.jar (Added)
+[18 September 2025 18:52:47 PM]  - \elytra-chestplate-swapper-2.0.0-MC1.21.8.jar (Added)
+[18 September 2025 18:52:47 PM]  - \entityculling-fabric-1.8.2-mc1.21.6.jar (Added)
+[18 September 2025 18:52:47 PM]  - \entity_model_features_1.21.6-fabric-3.0.1.jar (Added)
+[18 September 2025 18:52:47 PM]  - \entity_texture_features_1.21.6-fabric-7.0.2.jar (Added)
+[18 September 2025 18:52:47 PM]  - \fabric-api-0.133.4+1.21.8.jar (Added)
+[18 September 2025 18:52:47 PM]  - \faewulf_lib-fabric-1.21.6-1.3.2.jar (Added)
+[18 September 2025 18:52:47 PM]  - \ferritecore-8.0.0-fabric.jar (Added)
+[18 September 2025 18:52:47 PM]  - \Fog-fabric-1.9.3-1.21.8.jar (Added)
+[18 September 2025 18:52:47 PM]  - \footprintparticle-0.5.4b-mc1.21.6.jar (Added)
+[18 September 2025 18:52:47 PM]  - \ForgeConfigAPIPort-v21.8.1-1.21.8-Fabric.jar (Added)
+[18 September 2025 18:52:49 PM]  - \GlitchCore-fabric-1.21.8-21.8.0.0.jar (Added)
+[18 September 2025 18:52:49 PM]  - \global-datapack-1.6.1.jar (Added)
+[18 September 2025 18:52:49 PM]  - \GpuTape-1.0.6.1-1.21.5.jar (Added)
+[18 September 2025 18:52:49 PM]  - \hardcore-darkness-1.0.0+1.21.8.jar (Added)
+[18 September 2025 18:52:49 PM]  - \head_in_the_clouds-2.0.0+1.21.8.jar (Added)
+[18 September 2025 18:52:49 PM]  - \highlight-fabric-1.21.6-3.6.0.jar (Added)
+[18 September 2025 18:52:49 PM]  - \horizon-fix-1.0.0+1.21.x.jar (Added)
+[18 September 2025 18:52:49 PM]  - \horseman-fabric-1.21.8-1.5.4.jar (Added)
+[18 September 2025 18:52:49 PM]  - \ImmediatelyFast-Fabric-1.12.1+1.21.8.jar (Added)
+[18 September 2025 18:52:49 PM]  - \interdimensional-map-markers-1.0.4.jar (Added)
+[18 September 2025 18:52:49 PM]  - \jamlib-fabric-1.3.5+1.21.7.jar (Added)
+[18 September 2025 18:52:49 PM]  - \Kaffee's_Dual_Ride-1.1.5.jar (Added)
+[18 September 2025 18:52:49 PM]  - \Ksyxis-1.3.4.jar (Added)
+[18 September 2025 18:52:49 PM]  - \lambdynamiclights-4.3.3+1.21.8.jar (Added)
+[18 September 2025 18:52:49 PM]  - \language-reload-1.7.4+1.21.6.jar (Added)
+[18 September 2025 18:52:49 PM]  - \letmedespawn-1.21.5-fabric-1.5.1.jar (Added)
+[18 September 2025 18:52:49 PM]  - \lithium-fabric-0.18.0+mc1.21.8.jar (Added)
+[18 September 2025 18:52:49 PM]  - \MapDistanceFix-1.0.8+mc1.20.5-1.21.8.jar (Added)
+[18 September 2025 18:52:49 PM]  - \mcwifipnp-1.9.0-1.21.6-fabric.jar (Added)
+[18 September 2025 18:52:49 PM]  - \memory-1.0.0+1.21.x.jar (Added)
+[18 September 2025 18:52:49 PM]  - \midnightlib-1.7.5-fabric+1.21.6.jar (Added)
+[18 September 2025 18:52:49 PM]  - \modmenu-15.0.0.jar (Added)
+[18 September 2025 18:52:49 PM]  - \moreculling-fabric-1.21.6-1.4.0-beta.1.jar (Added)
+[18 September 2025 18:52:49 PM]  - \MouseTweaks-fabric-mc1.21.6-2.28.jar (Added)
+[18 September 2025 18:52:49 PM]  - \mru-1.0.20+edge+1.21.8+fabric.jar (Added)
+[18 September 2025 18:52:49 PM]  - \nethermap-4.2.0+1.21.5.jar (Added)
+[18 September 2025 18:52:49 PM]  - \no-telemetry-1.9.0.jar (Added)
+[18 September 2025 18:52:49 PM]  - \notenoughanimations-fabric-1.10.2-mc1.21.6.jar (Added)
+[18 September 2025 18:52:49 PM]  - \only-vanilla-advancements-1.0.0+1.21.x.jar (Added)
+[18 September 2025 18:52:49 PM]  - \peek-fabric-1.21.8-1.4.8.jar (Added)
+[18 September 2025 18:52:49 PM]  - \placeholder-api-2.7.2+1.21.8.jar (Added)
+[18 September 2025 18:52:49 PM]  - \PlayerListHeads-2.0-1.20-1.21.8.jar (Added)
+[18 September 2025 18:52:49 PM]  - \polymer-bundled-0.13.13+1.21.8.jar (Added)
+[18 September 2025 18:52:49 PM]  - \preferred-gamerules-1.2.0+1.21.3.jar (Added)
+[18 September 2025 18:52:49 PM]  - \PresenceFootsteps-1.11.1+1.21.7.jar (Added)
+[18 September 2025 18:52:49 PM]  - \PuzzlesLib-v21.8.6-1.21.8-Fabric.jar (Added)
+[18 September 2025 18:52:49 PM]  - \real-serene-seasons-1.0.0.jar (Added)
+[18 September 2025 18:52:49 PM]  - \reeses-sodium-options-fabric-1.8.4+mc1.21.6.jar (Added)
+[18 September 2025 18:52:49 PM]  - \revivaltotem-1.0.5-1.21.4.jar (Added)
+[18 September 2025 18:52:49 PM]  - \rightclickharvest-fabric-4.5.3+1.21.7.jar (Added)
+[18 September 2025 18:52:49 PM]  - \SereneSeasons-fabric-1.21.8-21.8.0.0.jar (Added)
+[18 September 2025 18:52:49 PM]  - \silentscreenshots-2.4+1.21.6.jar (Added)
+[18 September 2025 18:52:49 PM]  - \simpleemotes-1.0.1-fabric-1.21.6-0.128.1.jar (Added)
+[18 September 2025 18:52:49 PM]  - \sit-1.21.6-29.jar (Added)
+[18 September 2025 18:52:49 PM]  - \skinlayers3d-fabric-1.9.0-mc1.21.6.jar (Added)
+[18 September 2025 18:52:49 PM]  - \skinrestorer-2.4.3+1.21.6-fabric.jar (Added)
+[18 September 2025 18:52:49 PM]  - \sleepwarp-2.8.0+1.21.6.jar (Added)
+[18 September 2025 18:52:49 PM]  - \smoothskies-2.10.9+1.21.6-fabric.jar (Added)
+[18 September 2025 18:52:49 PM]  - \sodium-extra-fabric-0.6.6+mc1.21.6.jar (Added)
+[18 September 2025 18:52:49 PM]  - \sodium-fabric-0.6.13+mc1.21.6.jar (Added)
+[18 September 2025 18:52:49 PM]  - \sound-physics-remastered-fabric-1.21.8-1.4.15.jar (Added)
+[18 September 2025 18:52:49 PM]  - \soundcontroller-1.2.3-mc1.21.6.jar (Added)
+[18 September 2025 18:52:49 PM]  - \sounds-2.4.14.1+edge+1.21.8+fabric.jar (Added)
+[18 September 2025 18:52:49 PM]  - \spectators-generate-loot-1.0.1.jar (Added)
+[18 September 2025 18:52:49 PM]  - \spyglass_improvements-1.5.9+mc1.21.8+fabric.jar (Added)
+[18 September 2025 18:52:49 PM]  - \stackrefill-1.21.8-4.9.jar (Added)
+[18 September 2025 18:52:49 PM]  - \StylishEffects-v21.8.1-1.21.8-Fabric.jar (Added)
+[18 September 2025 18:52:49 PM]  - \takeitslow-fabric-1.21.4-2.1.0.jar (Added)
+[18 September 2025 18:52:49 PM]  - \tcdcommons-4.0.1+fabric-1.21.8.jar (Added)
+[18 September 2025 18:52:49 PM]  - \throwable-torches-1.0-SNAPSHOT.jar (Added)
+[18 September 2025 18:52:49 PM]  - \torch-hit-fabric-1.21.8-7.0.0.jar (Added)
+[18 September 2025 18:52:49 PM]  - \ukulib-1.8.0+1.21.6.jar (Added)
+[18 September 2025 18:52:49 PM]  - \ukus-armor-hud-0.8.0+mc1.21.6.jar (Added)
+[18 September 2025 18:52:49 PM]  - \unlock-all-recipes-81.jar (Added)
+[18 September 2025 18:52:49 PM]  - \visualjukebox-1.0.3+1.21.6.jar (Added)
+[18 September 2025 18:52:49 PM]  - \vt-downloader-2.3.5+1.21.6.jar (Added)
+[18 September 2025 18:52:49 PM]  - \yet_another_config_lib_v3-3.7.1+1.21.6-fabric.jar (Added)
+[18 September 2025 18:52:49 PM] Launching Minecraft with the following arguments (user related stuff has been removed): [USERSDIR\runtimes\minecraft\java-runtime-delta\windows-x64\java-runtime-delta\bin\javaw, -Xmx6144M, -XX:MetaspaceSize=256M, -Duser.language=en, -Duser.country=US, -Dlog4j.configurationFile=USERSDIR\assets\log_configs\client-1.21.2.xml, -XX:+UnlockExperimentalVMOptions, -XX:+UseG1GC, -XX:G1NewSizePercent=20, -XX:G1ReservePercent=20, -XX:MaxGCPauseMillis=50, -XX:G1HeapRegionSize=32M, -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump, -Djava.library.path=USERSDIR\temp\natives-1c20600731ba4c45a69e59114b1689ca, -Djna.tmpdir=USERSDIR\temp\natives-1c20600731ba4c45a69e59114b1689ca, -Dorg.lwjgl.system.SharedLibraryExtractPath=USERSDIR\temp\natives-1c20600731ba4c45a69e59114b1689ca, -Dio.netty.native.workdir=USERSDIR\temp\natives-1c20600731ba4c45a69e59114b1689ca, -Dminecraft.launcher.brand=ATLauncher, -Dminecraft.launcher.version=3.4.40.2, -cp, USERSDIR\libraries\org\ow2\asm\asm\9.8\asm-9.8.jar;USERSDIR\libraries\org\ow2\asm\asm-analysis\9.8\asm-analysis-9.8.jar;USERSDIR\libraries\org\ow2\asm\asm-commons\9.8\asm-commons-9.8.jar;USERSDIR\libraries\org\ow2\asm\asm-tree\9.8\asm-tree-9.8.jar;USERSDIR\libraries\org\ow2\asm\asm-util\9.8\asm-util-9.8.jar;USERSDIR\libraries\net\fabricmc\sponge-mixin\0.16.3+mixin.0.8.7\sponge-mixin-0.16.3+mixin.0.8.7.jar;USERSDIR\libraries\net\fabricmc\intermediary\1.21.8\intermediary-1.21.8.jar;USERSDIR\libraries\net\fabricmc\fabric-loader\0.17.2\fabric-loader-0.17.2.jar;USERSDIR\libraries\com\fasterxml\jackson\core\jackson-annotations\2.13.4\jackson-annotations-2.13.4.jar;USERSDIR\libraries\com\fasterxml\jackson\core\jackson-core\2.13.4\jackson-core-2.13.4.jar;USERSDIR\libraries\com\fasterxml\jackson\core\jackson-databind\2.13.4.2\jackson-databind-2.13.4.2.jar;USERSDIR\libraries\com\github\oshi\oshi-core\6.6.5\oshi-core-6.6.5.jar;USERSDIR\libraries\com\github\stephenc\jcip\jcip-annotations\1.0-1\jcip-annotations-1.0-1.jar;USERSDIR\libraries\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;USERSDIR\libraries\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;USERSDIR\libraries\com\google\guava\guava\33.3.1-jre\guava-33.3.1-jre.jar;USERSDIR\libraries\com\ibm\icu\icu4j\76.1\icu4j-76.1.jar;USERSDIR\libraries\com\microsoft\azure\msal4j\1.17.2\msal4j-1.17.2.jar;USERSDIR\libraries\com\mojang\authlib\6.0.58\authlib-6.0.58.jar;USERSDIR\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;USERSDIR\libraries\com\mojang\brigadier\1.3.10\brigadier-1.3.10.jar;USERSDIR\libraries\com\mojang\datafixerupper\8.0.16\datafixerupper-8.0.16.jar;USERSDIR\libraries\com\mojang\jtracy\1.0.29\jtracy-1.0.29.jar;USERSDIR\libraries\com\mojang\jtracy\1.0.29\jtracy-1.0.29-natives-windows.jar;USERSDIR\libraries\com\mojang\logging\1.5.10\logging-1.5.10.jar;USERSDIR\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;USERSDIR\libraries\com\mojang\text2speech\1.18.11\text2speech-1.18.11.jar;USERSDIR\libraries\com\nimbusds\content-type\2.3\content-type-2.3.jar;USERSDIR\libraries\com\nimbusds\lang-tag\1.7\lang-tag-1.7.jar;USERSDIR\libraries\com\nimbusds\nimbus-jose-jwt\9.40\nimbus-jose-jwt-9.40.jar;USERSDIR\libraries\com\nimbusds\oauth2-oidc-sdk\11.18\oauth2-oidc-sdk-11.18.jar;USERSDIR\libraries\commons-codec\commons-codec\1.17.1\commons-codec-1.17.1.jar;USERSDIR\libraries\commons-io\commons-io\2.17.0\commons-io-2.17.0.jar;USERSDIR\libraries\commons-logging\commons-logging\1.3.4\commons-logging-1.3.4.jar;USERSDIR\libraries\io\netty\netty-buffer\4.1.118.Final\netty-buffer-4.1.118.Final.jar;USERSDIR\libraries\io\netty\netty-codec\4.1.118.Final\netty-codec-4.1.118.Final.jar;USERSDIR\libraries\io\netty\netty-common\4.1.118.Final\netty-common-4.1.118.Final.jar;USERSDIR\libraries\io\netty\netty-handler\4.1.118.Final\netty-handler-4.1.118.Final.jar;USERSDIR\libraries\io\netty\netty-resolver\4.1.118.Final\netty-resolver-4.1.118.Final.jar;USERSDIR\libraries\io\netty\netty-transport-classes-epoll\4.1.118.Final\netty-transport-classes-epoll-4.1.118.Final.jar;USERSDIR\libraries\io\netty\netty-transport-native-unix-common\4.1.118.Final\netty-transport-native-unix-common-4.1.118.Final.jar;USERSDIR\libraries\io\netty\netty-transport\4.1.118.Final\netty-transport-4.1.118.Final.jar;USERSDIR\libraries\it\unimi\dsi\fastutil\8.5.15\fastutil-8.5.15.jar;USERSDIR\libraries\net\java\dev\jna\jna-platform\5.15.0\jna-platform-5.15.0.jar;USERSDIR\libraries\net\java\dev\jna\jna\5.15.0\jna-5.15.0.jar;USERSDIR\libraries\net\minidev\accessors-smart\2.5.1\accessors-smart-2.5.1.jar;USERSDIR\libraries\net\minidev\json-smart\2.5.1\json-smart-2.5.1.jar;USERSDIR\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;USERSDIR\libraries\org\apache\commons\commons-compress\1.27.1\commons-compress-1.27.1.jar;USERSDIR\libraries\org\apache\commons\commons-lang3\3.17.0\commons-lang3-3.17.0.jar;USERSDIR\libraries\org\apache\httpcomponents\httpclient\4.5.14\httpclient-4.5.14.jar;USERSDIR\libraries\org\apache\httpcomponents\httpcore\4.4.16\httpcore-4.4.16.jar;USERSDIR\libraries\org\apache\logging\log4j\log4j-api\2.24.1\log4j-api-2.24.1.jar;USERSDIR\libraries\org\apache\logging\log4j\log4j-core\2.24.1\log4j-core-2.24.1.jar;USERSDIR\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.24.1\log4j-slf4j2-impl-2.24.1.jar;USERSDIR\libraries\org\jcraft\jorbis\0.0.17\jorbis-0.0.17.jar;USERSDIR\libraries\org\joml\joml\1.10.8\joml-1.10.8.jar;USERSDIR\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lz4\lz4-java\1.8.0\lz4-java-1.8.0.jar;USERSDIR\libraries\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;USERSDIR\libraries\net\minecraft\client\1.21.8\client-1.21.8.jar, -DFabricMcEmu= net.minecraft.client.main.Main , net.fabricmc.loader.impl.launch.knot.KnotClient, --username, REDACTED, --version, 1.21.8, --gameDir, USERSDIR\instances\Minecraft1218withFabric, --assetsDir, USERSDIR\assets, --assetIndex, 26, --uuid, 87ebcd7c-7609-4a85-b7d3-791b0f84889f, --accessToken, REDACTED, --userType, msa, --versionType, release, --width=854, --height=480]
+[18 September 2025 18:52:50 PM] [main/INFO] Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[18 September 2025 18:52:50 PM] [ForkJoinPool-1-worker-9/WARN] Mod footprintparticle uses the version 0.5.4b-mc1.21.6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '4b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[18 September 2025 18:52:51 PM]  - Mod 'Sounds' (sounds) **IPADDRESS**+edge+1.21.8+fabric recommends any version of rsls, which is missing!
+[18 September 2025 18:52:51 PM] [main/WARN] Warnings were found!	 - You should install any version of rsls for the optimal experience.
+[18 September 2025 18:52:51 PM] 	- advancementscreenshot 5.1
+[18 September 2025 18:52:51 PM] 	- almanac 1.4.5
+[18 September 2025 18:52:51 PM] 	- anvilrestoration 2.4
+[18 September 2025 18:52:51 PM] 	- architectury 17.0.8
+[18 September 2025 18:52:51 PM] 	- autohud 8.9
+[18 September 2025 18:52:51 PM] 	   \-- libbamboo 2.18
+[18 September 2025 18:52:51 PM] 	- badoptimizations 2.3.0
+[18 September 2025 18:52:51 PM] 	- balm 21.8.6
+[18 September 2025 18:52:51 PM] 	   \-- kuma_api 21.8.3
+[18 September 2025 18:52:51 PM] 	- better-selection 1.6.8
+[18 September 2025 18:52:51 PM] 	- betteradvancements **IPADDRESS**
+[18 September 2025 18:52:51 PM] 	- betterbiomeblend 1.5.2
+[18 September 2025 18:52:51 PM] 	- betterclouds 1.10.5-alpha+1.21.8-fabric.rev.820b462
+[18 September 2025 18:52:51 PM] 	   |-- gs_mclo_api 5.0.0
+[18 September 2025 18:52:51 PM] 	   \-- mixinsquared 0.2.0
+[18 September 2025 18:52:51 PM] 	- betterconduitplacement 3.4
+[18 September 2025 18:52:51 PM] 	- betterstats 4.0.0
+[18 September 2025 18:52:51 PM] 	- biomeparticleweather 5.3.4
+[18 September 2025 18:52:51 PM] 	- boatiview 0.0.6
+[18 September 2025 18:52:51 PM] 	- breakfree 1.4.0
+[18 September 2025 18:52:51 PM] 	- bundleinventory 1.7.2
+[18 September 2025 18:52:51 PM] 	- c2me 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-base 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-client-uncapvd 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-fixes-chunkio-threading-issues 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-fixes-general-threading-issues 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-fixes-worldgen-threading-issues 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-fixes-worldgen-vanilla-bugs 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-notickvd 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-opts-allocs 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-opts-chunkio 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-opts-dfc 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-opts-math 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-opts-scheduling 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-opts-worldgen-general 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-opts-worldgen-vanilla 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-rewrites-chunk-serializer 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-rewrites-chunk-system 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-rewrites-chunkio 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-server-utils 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- c2me-threading-lighting 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- com_ibm_async_asyncutil 0.1.0
+[18 September 2025 18:52:51 PM] 	   |-- io_reactivex_rxjava3_rxjava 3.1.8
+[18 September 2025 18:52:51 PM] 	   |-- net_objecthunter_exp4j 0.4.8
+[18 September 2025 18:52:51 PM] 	   |-- org_jctools_jctools-core 4.0.5
+[18 September 2025 18:52:51 PM] 	   \-- org_reactivestreams_reactive-streams 1.0.4
+[18 September 2025 18:52:51 PM] 	- cant_sleep 1.0.0
+[18 September 2025 18:52:51 PM] 	- cavedust 3.0.1
+[18 September 2025 18:52:51 PM] 	- centered-crosshair 1.2.0
+[18 September 2025 18:52:51 PM] 	- chat_heads 0.13.19
+[18 September 2025 18:52:51 PM] 	- chunksfadein 3.0.3-1.21.6
+[18 September 2025 18:52:51 PM] 	   \-- com_moandjiezana_toml_toml4j 0.7.2
+[18 September 2025 18:52:51 PM] 	- clean-debug 0.4.9
+[18 September 2025 18:52:51 PM] 	- cloth-config 19.0.147
+[18 September 2025 18:52:51 PM] 	   \-- cloth-basic-math 0.6.1
+[18 September 2025 18:52:51 PM] 	- cobweb 1.3.3
+[18 September 2025 18:52:51 PM] 	- collective 8.4
+[18 September 2025 18:52:51 PM] 	- connected-doors 1.3+1.21.2
+[18 September 2025 18:52:51 PM] 	- continuity 3.0.1-beta.1+1.21.6
+[18 September 2025 18:52:51 PM] 	- cosmos 1.0.0-1.21.8
+[18 September 2025 18:52:51 PM] 	- day-counter 1.2.1+fabric-mc1.21-1.21.8
+[18 September 2025 18:52:51 PM] 	- difficultylock 4.7
+[18 September 2025 18:52:51 PM] 	- dualbar 1.0
+[18 September 2025 18:52:51 PM] 	- durabilityplus 1.1.0
+[18 September 2025 18:52:51 PM] 	- e4mc_minecraft 5.4.1
+[18 September 2025 18:52:51 PM] 	   \-- folk_sisby_kaleido-config 0.3.1+1.3.1
+[18 September 2025 18:52:51 PM] 	- eg_fix_horizontal_camera_lag 1.1.1
+[18 September 2025 18:52:51 PM] 	- elytra-chestplate-swapper 2.0.0
+[18 September 2025 18:52:51 PM] 	- entity_model_features 3.0.1
+[18 September 2025 18:52:51 PM] 	- entity_texture_features 7.0.2
+[18 September 2025 18:52:51 PM] 	   \-- org_apache_httpcomponents_httpmime 4.5.10
+[18 September 2025 18:52:51 PM] 	- entityculling 1.8.2
+[18 September 2025 18:52:51 PM] 	- fabric-api 0.133.4+1.21.8
+[18 September 2025 18:52:51 PM] 	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-content-registries-v0 10.1.0+c75de69d2c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-data-attachment-api-v1 1.8.13+38b5f74e2c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-data-generation-api-v1 23.2.7+0b1ef9762c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-dimensions-v1 4.0.20+948fc79a2c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-events-interaction-v0 4.0.25+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-model-loading-api-v1 5.2.7+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-networking-api-v1 5.0.3+4ddbf91b2c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-object-builder-api-v1 21.1.9+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-particles-v1 4.1.9+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-recipe-api-v1 8.1.16+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-registry-sync-v0 6.1.29+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-renderer-api-v1 7.0.4+208eed172c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-renderer-indigo 4.0.4+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-rendering-v1 12.5.1+fbe231d52c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-resource-loader-v0 3.1.12+020423442c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-screen-api-v1 2.1.1+277ecf7d2c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-screen-handler-api-v1 1.3.138+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-serialization-api-v1 1.0.0+fc0e5aba2c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
+[18 September 2025 18:52:51 PM] 	   \-- fabric-transitive-access-wideners-v1 6.5.0+c847ce762c
+[18 September 2025 18:52:51 PM] 	- fabricloader 0.17.2
+[18 September 2025 18:52:51 PM] 	   \-- mixinextras 0.5.0
+[18 September 2025 18:52:51 PM] 	- faewulf_lib 1.3.2
+[18 September 2025 18:52:51 PM] 	- ferritecore 8.0.0
+[18 September 2025 18:52:51 PM] 	- fog 1.9.3-1.21.8
+[18 September 2025 18:52:51 PM] 	- footprintparticle 0.5.4b-mc1.21.6
+[18 September 2025 18:52:51 PM] 	- forgeconfigapiport 21.8.1
+[18 September 2025 18:52:51 PM] 	   |-- com_electronwill_night-config_core 3.8.3
+[18 September 2025 18:52:51 PM] 	   \-- com_electronwill_night-config_toml 3.8.3
+[18 September 2025 18:52:51 PM] 	- glitchcore **IPADDRESS**
+[18 September 2025 18:52:51 PM] 	   \-- net_jodah_typetools 0.6.3
+[18 September 2025 18:52:51 PM] 	- global-datapack 1.6.1
+[18 September 2025 18:52:51 PM] 	- gpu_tape 1.0.6
+[18 September 2025 18:52:51 PM] 	- hardcore_darkness 1.0.0+1.21.8
+[18 September 2025 18:52:51 PM] 	- head_in_the_clouds 2.0.0+1.21.8
+[18 September 2025 18:52:51 PM] 	- highlight 3.6.0
+[18 September 2025 18:52:51 PM] 	   \-- resourcefullib 3.6.0
+[18 September 2025 18:52:51 PM] 	        |-- com_teamresourceful_bytecodecs 1.1.3
+[18 September 2025 18:52:51 PM] 	        \-- com_teamresourceful_yabn 1.0.3
+[18 September 2025 18:52:51 PM] 	- horizonfix 1.0.0+1.21.x
+[18 September 2025 18:52:51 PM] 	- horseman 1.5.4
+[18 September 2025 18:52:51 PM] 	- immediatelyfast 1.12.1+1.21.8
+[18 September 2025 18:52:51 PM] 	   \-- net_lenni0451_reflect 1.3.4
+[18 September 2025 18:52:51 PM] 	- interdimensional-map-markers 1.0.4
+[18 September 2025 18:52:51 PM] 	- jamlib 1.3.5+1.21.7
+[18 September 2025 18:52:51 PM] 	   \-- blue_endless_jankson 1.2.3
+[18 September 2025 18:52:51 PM] 	- kaffees_dual_ride 1.1.5
+[18 September 2025 18:52:51 PM] 	   |    |-- yumi-commons-collections 1.0.0-beta.1
+[18 September 2025 18:52:51 PM] 	   |-- pride 1.4.0+1.21.6
+[18 September 2025 18:52:51 PM] 	- silentscreenshots 2.4
+[18 September 2025 18:52:51 PM] 	- sleepwarp 2.8.0+1.21.6
+[18 September 2025 18:52:51 PM] 	        \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+[18 September 2025 18:52:51 PM] 	   |-- com_moulberry_mixinconstraints 1.0.8
+[18 September 2025 18:52:51 PM] 	- sodium 0.6.13+mc1.21.6
+[18 September 2025 18:52:51 PM] 	- sound_physics_remastered 1.21.8-1.4.15
+[18 September 2025 18:52:51 PM] 	- sounds **IPADDRESS**+edge+1.21.8+fabric
+[18 September 2025 18:52:51 PM] 	- spyglass_improvements 1.5.9
+[18 September 2025 18:52:51 PM] 	- takeitslow 2.1.0
+[18 September 2025 18:52:51 PM] [main/INFO] SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/d/AppData/Roaming/ATLauncher/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[18 September 2025 18:52:51 PM] [main/INFO] Compatibility level set to JAVA_21
+[18 September 2025 18:52:52 PM] [main/INFO] Config version: 4
+[18 September 2025 18:52:52 PM] [main/INFO] BadOptimizations config dump:
+[18 September 2025 18:52:52 PM] [main/INFO] enable_toast_optimizations: true
+[18 September 2025 18:52:52 PM] [main/INFO] ignore_mod_incompatibilities: false
+[18 September 2025 18:52:52 PM] [main/INFO] lightmap_time_change_needed_for_update: 80
+[18 September 2025 18:52:52 PM] [main/INFO] enable_lightmap_caching: true
+[18 September 2025 18:52:52 PM] [main/INFO] enable_particle_manager_optimization: true
+[18 September 2025 18:52:52 PM] [main/INFO] enable_entity_renderer_caching: true
+[18 September 2025 18:52:52 PM] [main/INFO] log_config: true
+[18 September 2025 18:52:52 PM] [main/INFO] enable_remove_redundant_fov_calculations: true
+[18 September 2025 18:52:52 PM] [main/INFO] config_version: 4
+[18 September 2025 18:52:52 PM] [main/INFO] enable_sky_angle_caching_in_worldrenderer: true
+[18 September 2025 18:52:52 PM] [main/INFO] enable_block_entity_renderer_caching: true
+[18 September 2025 18:52:52 PM] [main/INFO] skycolor_time_change_needed_for_update: 3
+[18 September 2025 18:52:52 PM] [main/INFO] enable_entity_flag_caching: true
+[18 September 2025 18:52:52 PM] [main/INFO] enable_debug_renderer_disable_if_not_needed: true
+[18 September 2025 18:52:52 PM] [main/INFO] enable_sky_color_caching: true
+[18 September 2025 18:52:52 PM] [main/INFO] enable_remove_tutorial_if_not_demo: true
+[18 September 2025 18:52:52 PM] [main/INFO] show_f3_text: true
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.base.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Global Executor Parallelism: 8 configured, 8 evaluated, 8 default evaluated
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.client.uncapvd.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.notickvd.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.opts.allocs.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.opts.chunkio.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.opts.dfc.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.opts.math.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.opts.scheduling.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@17.0.8 (*) (defined in c2me)
+[18 September 2025 18:52:52 PM] [main/INFO] Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.server.utils.mixin
+[18 September 2025 18:52:52 PM] [main/INFO] Initializing com.ishland.c2me.threading.lighting.mixin
+[18 September 2025 18:52:52 PM] [main/WARN] Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[18 September 2025 18:52:52 PM] [main/WARN] Reference map 'gpu_tape.refmap.json' for gpu_tape.mixins.json could not be read. If this is a development environment you can ignore this message
+[18 September 2025 18:52:52 PM] [main/WARN] Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[18 September 2025 18:52:52 PM] [main/INFO] Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
+[18 September 2025 18:52:53 PM] [main/INFO] Loaded configuration file for Sodium: 43 options available, 0 override(s) found
+[18 September 2025 18:52:53 PM] [main/INFO] Loaded configuration file for Sodium Extra: 33 options available, 0 override(s) found
+[18 September 2025 18:52:53 PM] [main/WARN] Reference map 'stylisheffects.fabric.refmap.json' for stylisheffects.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[18 September 2025 18:52:53 PM] [main/WARN] Reference map 'torch_hit.refmap.json' for torch_hit.mixins.json could not be read. If this is a development environment you can ignore this message
+[18 September 2025 18:52:53 PM] [main/WARN] Reference map 'torch_hit.refmap.json' for torch_hit.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[18 September 2025 18:52:53 PM] [main/WARN] Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[18 September 2025 18:52:53 PM] [main/WARN] Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[18 September 2025 18:52:53 PM] [main/WARN] Error loading class: net/coderbot/iris/pipeline/newshader/ExtendedShader (java.lang.ClassNotFoundException: net/coderbot/iris/pipeline/newshader/ExtendedShader)
+[18 September 2025 18:52:53 PM] [main/WARN] Error loading class: net/coderbot/iris/pipeline/newshader/fallback/FallbackShader (java.lang.ClassNotFoundException: net/coderbot/iris/pipeline/newshader/fallback/FallbackShader)
+[18 September 2025 18:52:53 PM] [main/WARN] Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages)
+[18 September 2025 18:52:53 PM] [main/WARN] Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net/caffeinemc/sodium/config/user/UserConfigCategories)
+[18 September 2025 18:52:53 PM] [main/WARN] Error loading class: net/vulkanmod/config/option/Options (java.lang.ClassNotFoundException: net/vulkanmod/config/option/Options)
+[18 September 2025 18:52:53 PM] [main/WARN] Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[18 September 2025 18:52:53 PM] [main/WARN] Error loading class: net/irisshaders/batchedentityrendering/impl/FullyBufferedMultiBufferSource (java.lang.ClassNotFoundException: net/irisshaders/batchedentityrendering/impl/FullyBufferedMultiBufferSource)
+[18 September 2025 18:52:53 PM] [main/WARN] Error loading class: net/irisshaders/iris/layer/InnerWrappedRenderType (java.lang.ClassNotFoundException: net/irisshaders/iris/layer/InnerWrappedRenderType)
+[18 September 2025 18:52:53 PM] [main/WARN] Error loading class: net/irisshaders/iris/layer/OuterWrappedRenderType (java.lang.ClassNotFoundException: net/irisshaders/iris/layer/OuterWrappedRenderType)
+[18 September 2025 18:52:54 PM] [main/WARN] Error loading class: net/mehvahdjukaar/polytone/biome/BiomeEffectsManager (java.lang.ClassNotFoundException: net/mehvahdjukaar/polytone/biome/BiomeEffectsManager)
+[18 September 2025 18:52:54 PM] [main/WARN] Error loading class: dev/emi/emi/screen/EmiScreenManager (java.lang.ClassNotFoundException: dev/emi/emi/screen/EmiScreenManager)
+[18 September 2025 18:52:54 PM] [main/WARN] Error loading class: net/strobel/inventive_inventory/features/sorting/SortingHandler (java.lang.ClassNotFoundException: net/strobel/inventive_inventory/features/sorting/SortingHandler)
+[18 September 2025 18:52:54 PM] [main/WARN] Error loading class: de/rubixdev/inventorio/player/InventorioScreenHandler (java.lang.ClassNotFoundException: de/rubixdev/inventorio/player/InventorioScreenHandler)
+[18 September 2025 18:52:54 PM] [main/WARN] Error loading class: net/blay09/mods/trashslot/client/deletion/DefaultDeletionProvider (java.lang.ClassNotFoundException: net/blay09/mods/trashslot/client/deletion/DefaultDeletionProvider)
+[18 September 2025 18:52:54 PM] [main/WARN] Error loading class: me/shedaniel/rei/plugin/client/exclusionzones/DefaultPotionEffectExclusionZones (java.lang.ClassNotFoundException: me/shedaniel/rei/plugin/client/exclusionzones/DefaultPotionEffectExclusionZones)
+[18 September 2025 18:52:54 PM] [main/WARN] Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages)
+[18 September 2025 18:52:54 PM] [main/WARN] Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net/caffeinemc/sodium/config/user/UserConfigCategories)
+[18 September 2025 18:52:54 PM] [main/WARN] Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages)
+[18 September 2025 18:52:54 PM] [main/WARN] Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net/caffeinemc/sodium/config/user/UserConfigCategories)
+[18 September 2025 18:52:55 PM] [main/WARN] Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[18 September 2025 18:52:55 PM] [main/INFO] Killing telemetry
+[18 September 2025 18:52:55 PM] [main/INFO] Searching for graphics cards...
+[18 September 2025 18:52:55 PM] [main/INFO] Found graphics adapter: AdapterInfo{vendor=NVIDIA, description='NVIDIA GeForce RTX 3060 Laptop GPU', adapterType=0x0000231B, openglIcdFilePath='C:\WINDOWS\System32\DriverStore\FileRepository\nvlti.inf_amd64_071505319ec619da\nvoglv64.dll', openglIcdVersion=32.0.15.7270}
+[18 September 2025 18:52:55 PM] [main/WARN] Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS_BROKEN]
+[18 September 2025 18:52:55 PM] [main/WARN] This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[18 September 2025 18:52:55 PM] [main/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[18 September 2025 18:52:58 PM] [Datafixer Bootstrap/INFO] 269 Datafixer optimizations took 739 milliseconds
+[18 September 2025 18:53:07 PM] [main/INFO] Completely ignored arguments: []
+[18 September 2025 18:53:08 PM] [Render thread/INFO] Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18 September 2025 18:53:08 PM] [Render thread/INFO] Setting user: **MINECRAFTUSERNAME**
+[18 September 2025 18:53:08 PM] [Render thread/INFO] Can't Sleep ready
+[18 September 2025 18:53:08 PM] [Render thread/INFO] Loading Collective version 8.4.
+[18 September 2025 18:53:09 PM] [Render thread/INFO] Sparkles.
+[18 September 2025 18:53:09 PM] [Render thread/INFO] Hello Fabric world!
+[18 September 2025 18:53:09 PM] [Render thread/INFO] [Faewulf's Lib] Initializing...
+[18 September 2025 18:53:09 PM] [Render thread/INFO] [Faewulf's Lib] Hello from Faewulf with <3
+[18 September 2025 18:53:09 PM] [Render thread/INFO] Registered synced config with path sereneseasons/fertility.toml
+[18 September 2025 18:53:09 PM] [Render thread/INFO] Registered synced config with path sereneseasons/seasons.toml
+[18 September 2025 18:53:09 PM] [Render thread/INFO] Initialized GlobalDatapack
+[18 September 2025 18:53:09 PM] [Render thread/INFO] Hardcore Darkness config loaded: requireMod=true
+[18 September 2025 18:53:09 PM] [Render thread/INFO] Server handshake enabled
+[18 September 2025 18:53:09 PM] [Render thread/INFO] Initializing JamLib on Fabric
+[18 September 2025 18:53:09 PM] [Render thread/INFO] Ksyxis: Booting... (platform: Fabric/KFabric, manual: false)
+[18 September 2025 18:53:09 PM] [Render thread/INFO] Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (mixinVersion: 0.8.7, time: 1 ms)
+[18 September 2025 18:53:09 PM] [Render thread/INFO] Constructing components for puzzleslib:common
+[18 September 2025 18:53:09 PM] [Render thread/INFO] Real Serene Seasons ready: hemisphere northern, cadence MONTH, interpolation enabled.
+[18 September 2025 18:53:09 PM] [Render thread/INFO] Registering mod items for revivaltotem
+[18 September 2025 18:53:09 PM] [Render thread/INFO] Updated config file at **USERSDIR**\instances\Minecraft1218withFabric\config\rightclickharvest.json5
+[18 September 2025 18:53:09 PM] [Render thread/INFO] Initializing Right Click Harvest on FABRIC
+[18 September 2025 18:53:09 PM] [Render thread/INFO] [STDOUT]: simpleemotes Mod is running
+[18 September 2025 18:53:10 PM] Sep 18, 2025 6:53:10 PM org.mineskin.ClientBuilder build
+[18 September 2025 18:53:10 PM] WARNING: Creating MineSkinClient without API key - Please get an API key from https://account.mineskin.org/keys
+[18 September 2025 18:53:10 PM] [Render thread/INFO] Deserializing SmoothConfig from '**USERSDIR**\instances\Minecraft1218withFabric\config\smoothskies.json'
+[18 September 2025 18:53:10 PM] [Render thread/INFO] Constructing components for stylisheffects:common
+[18 September 2025 18:53:10 PM] [Render thread/INFO] Dispatching loading event for config stylisheffects-client.toml
+[18 September 2025 18:53:10 PM] [Render thread/INFO] Deserializing FabricConfig from '**USERSDIR**\instances\Minecraft1218withFabric\config\takeitslow_v2.json5'
+[18 September 2025 18:53:10 PM] [Render thread/INFO] Registering S2C receiver with id architectury:spawn_entity_packet
+[18 September 2025 18:53:10 PM] [Render thread/INFO] Deserializing Config from '**USERSDIR**\instances\Minecraft1218withFabric\config\autohud.json5'
+[18 September 2025 18:53:10 PM] [Render thread/INFO] Loaded
+[18 September 2025 18:53:10 PM] [Render thread/INFO] Deserializing Config from '**USERSDIR**\instances\Minecraft1218withFabric\config\betterclouds-v1.json'
+[18 September 2025 18:53:10 PM] [Render thread/INFO] [BetterClouds] YACL: initializing compat
+[18 September 2025 18:53:10 PM] [Render thread/INFO] [BetterClouds] DistantHorizons: not loaded
+[18 September 2025 18:53:10 PM] [Render thread/INFO] [BetterClouds] Iris: not loaded
+[18 September 2025 18:53:10 PM] [Render thread/INFO] [BetterClouds] SereneSeasons: initializing compat
+[18 September 2025 18:53:10 PM] [Render thread/INFO] [BetterClouds] FabricSeasons: not loaded
+[18 September 2025 18:53:10 PM] [Render thread/INFO] [BetterClouds] EnhancedCelestials: not loaded
+[18 September 2025 18:53:10 PM] [Render thread/INFO] Initializing 'Better Statistics Screen' as 'BetterStatsClient'.
+[18 September 2025 18:53:10 PM] [Render thread/INFO] Registering C2S receiver with id betterstats:c2s_bss
+[18 September 2025 18:53:10 PM] [Render thread/INFO] Registering C2S receiver with id betterstats:c2s_prf
+[18 September 2025 18:53:10 PM] [Render thread/INFO] Registering C2S receiver with id betterstats:c2s_mcbs_req
+[18 September 2025 18:53:10 PM] [Render thread/INFO] Registering S2C receiver with id betterstats:s2c_bss
+[18 September 2025 18:53:10 PM] [Render thread/INFO] Registering S2C receiver with id betterstats:s2c_mcbs
+[18 September 2025 18:53:11 PM] [Thread-15/WARN] Failed to execute GET http request on 'https://api.crowdin.com/api/v2/projects/593943/translations/builds/50/download'! Cause: https://api.crowdin.com/api/v2/projects/593943/translations/builds/50/download
+[18 September 2025 18:53:11 PM] 	at knot//com.koteinik.chunksfadein.crowdin.TranslationsDownloader.get(TranslationsDownloader.java:247)
+[18 September 2025 18:53:11 PM] 	at knot//com.koteinik.chunksfadein.crowdin.TranslationsDownloader.getCrowdinTranslations(TranslationsDownloader.java:202)
+[18 September 2025 18:53:11 PM] 	at knot//com.koteinik.chunksfadein.crowdin.TranslationsDownloader.run(TranslationsDownloader.java:166)
+[18 September 2025 18:53:11 PM] [Thread-15/ERROR] Uncaught exception in thread "Thread-15"
+[18 September 2025 18:53:11 PM] [Render thread/INFO] [Day Counter]: OK!
+[18 September 2025 18:53:11 PM] [Render thread/INFO] [DurabilityPlus] Mod loaded!
+[18 September 2025 18:53:11 PM] [Render thread/INFO] [Fix Horizontal Camera Lag]: Mod is loading on a Fabric environment
+[18 September 2025 18:53:11 PM] [Render thread/INFO] [Fix Horizontal Camera Lag]: Loaded Successfully!
+[18 September 2025 18:53:11 PM] [Render thread/INFO] [ETF]: Modifying ETF Render State constructor because: for EMF
+[18 September 2025 18:53:11 PM] [Render thread/INFO] Loading Entity Model Features, now available for Terraria!
+[18 September 2025 18:53:11 PM] [Render thread/INFO] [ETF]: 6 new ETF Random Properties registered by entity_model_features
+[18 September 2025 18:53:11 PM] [Render thread/INFO] Loading Entity Texture Features, :)
+[18 September 2025 18:53:11 PM] [Render thread/INFO] [Indigo] Different rendering plugin detected; not applying Indigo.
+[18 September 2025 18:53:11 PM] [Render thread/INFO] Loading Fog.
+[18 September 2025 18:53:11 PM] [Render thread/INFO] Deserializing FogConfig from '**USERSDIR**\instances\Minecraft1218withFabric\config\fog\config.json'
+[18 September 2025 18:53:11 PM] [Render thread/INFO] Horizon Fix client initialized.
+[18 September 2025 18:53:11 PM] [Render thread/INFO] Initializing MapDistanceFix v1.0.8+mc1.20.5-1.21.8
+[18 September 2025 18:53:11 PM] [Render thread/INFO] MapDistanceFix v1.0.8+mc1.20.5-1.21.8 initialized successfully
+[18 September 2025 18:53:11 PM] [Render thread/INFO] Memory configuration applied: automatic screenshots every 180 seconds. Chat message hidden.
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Using Cloth Config GUI
+[18 September 2025 18:53:12 PM] [Render thread/WARN] Using Cloth Config GUI
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Checking mod updates...
+[18 September 2025 18:53:12 PM] [Render thread/INFO] [STDOUT]: [Mouse Tweaks] Main.initialize()
+[18 September 2025 18:53:12 PM] [Render thread/INFO] [STDOUT]: [Mouse Tweaks] Initialized.
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Constructing components for puzzleslib:client
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Registering S2C receiver with id rightclickharvest:hello
+[18 September 2025 18:53:12 PM] [Render thread/INFO] [STDOUT]: register Input keys!
+[18 September 2025 18:53:12 PM] [Render thread/INFO] [STDOUT]: simpleemotes Mod is running on client
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Reloading reverb parameters
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: coolrain:rain_sounds_fabric
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: coolrain:rain_sounds_glass_muffled
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: biomesoplenty:music.overworld.nostalgic
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: coolrain:rain_sounds_water
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: biomesoplenty:music.nether.undergrowth
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: coolrain:rain_sounds_lava
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: coolrain:rain_sounds_glass
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: coolrain:rain_sounds_fabric_muffled
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: coolrain:rain_sounds_metal
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: biomesoplenty:music.nether.visceral_heap
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: coolrain:rain_sounds_foliage
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: coolrain:rain_sounds_noteblock
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: immersivethunder:thunder_far
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: biomesoplenty:music.nether.erupting_inferno
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: immersivethunder:thunder_close
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: biomesoplenty:music.nether.withered_abyss
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: biomesoplenty:block.flesh_tendon.drip
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: biomesoplenty:block.pus_bubble.pop
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: immersivethunder:thunder_medium
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: biomesoplenty:music.nether.crystalline_chasm
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: biomesoplenty:music.overworld.origin_valley
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: coolrain:rain_sounds_amethyst
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: coolrain:rain_sounds_metal_muffled
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: biomesoplenty:block.blood.ambient
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: biomesoplenty:music_disc.wanderer
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Unknown sound in allowed sound config: biomesoplenty:block.spider_egg.break
+[18 September 2025 18:53:12 PM] [Render thread/INFO] soundcontroller loaded.
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Deserializing UISoundsConfig from '**USERSDIR**\instances\Minecraft1218withFabric\config\sounds\ui.json'
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Deserializing EventSoundsConfig from '**USERSDIR**\instances\Minecraft1218withFabric\config\sounds\event.json'
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Deserializing WorldSoundsConfig from '**USERSDIR**\instances\Minecraft1218withFabric\config\sounds\world.json'
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Deserializing ModConfig from '**USERSDIR**\instances\Minecraft1218withFabric\config\sounds\mod_utils.json'
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Deserializing ChatSoundsConfig from '**USERSDIR**\instances\Minecraft1218withFabric\config\sounds\chat.json'
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Spyglass Improvements Client Initialized
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Constructing components for stylisheffects:client
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Initializing 'TCDCommons API' 4.0.1+fabric-1.21.8 as 'TCDCommonsClient'.
+[18 September 2025 18:53:12 PM] [Render thread/INFO] Registering S2C receiver with id tcdcommons:player_badges
+[18 September 2025 18:53:12 PM] [Render thread/INFO] [STDOUT]: [LibGui] Initializing Client...
+[18 September 2025 18:53:12 PM] [Render thread/INFO] VTDownloader 2.3.5, using Vanilla Tweaks 1.21
+[18 September 2025 18:53:13 PM] [Render thread/INFO] Loaded 14 resource pack categories
+[18 September 2025 18:53:13 PM] [Render thread/INFO] Deserializing YACLConfig from '**USERSDIR**\instances\Minecraft1218withFabric\config\yacl.json5'
+[18 September 2025 18:53:13 PM] [Render thread/INFO] [LambDynLights] Initializing LambDynamicLights...
+[18 September 2025 18:53:13 PM] [Render thread/INFO] [LambDynLights] Configuration loaded.
+[18 September 2025 18:53:14 PM] [Worker-Main-1/INFO] Update available for 'map-distance-fix@1.0.8+mc1.20.5-1.21.8', (-> 1.0.9+mc1.20.5-1.21.8)
+[18 September 2025 18:53:14 PM] [Worker-Main-1/INFO] Update available for 'balm@21.8.6', (-> 21.8.8+fabric-1.21.8)
+[18 September 2025 18:53:14 PM] [Render thread/INFO] Backend library: LWJGL version 3.3.3-snapshot
+[18 September 2025 18:53:14 PM] [Render thread/WARN] Detected unexpected shutdown during last game startup: resetting fullscreen mode
+[18 September 2025 18:53:14 PM] [Render thread/INFO] Modifying process environment to apply workarounds for the NVIDIA graphics driver...
+[18 September 2025 18:53:15 PM] [Render thread/INFO] [BetterClouds] Initializing OpenGL compat
+[18 September 2025 18:53:15 PM] [Render thread/INFO] Initializing ImmediatelyFast 1.12.1+1.21.8 on NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2 (NVIDIA Corporation) with OpenGL 3.2.0 NVIDIA 572.70
+[18 September 2025 18:53:15 PM] [Render thread/INFO] OpenGL Vendor: NVIDIA Corporation
+[18 September 2025 18:53:15 PM] [Render thread/INFO] OpenGL Renderer: NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2
+[18 September 2025 18:53:15 PM] [Render thread/INFO] OpenGL Version: 3.2.0 NVIDIA 572.70
+[18 September 2025 18:53:15 PM] [Render thread/INFO] Modifying OpenGL context to apply workarounds for the NVIDIA graphics driver...
+[18 September 2025 18:53:15 PM] [Render thread/INFO] Enabling GL_DEBUG_OUTPUT_SYNCHRONOUS to force the NVIDIA driver to disable threadedcommand submission
+[18 September 2025 18:53:15 PM] [Render thread/INFO] Using optional rendering extensions: GL_ARB_buffer_storage, GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access
+[18 September 2025 18:53:16 PM] [Render thread/INFO] Block minecraft:birch_leaves had its color provider replaced with sereneseasons.init.ModClient$$Lambda/0x00000008012aefd8@535fa897 and will not use per-vertex coloring
+[18 September 2025 18:53:16 PM] [Render thread/WARN] @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on biomeparticleweather.mixins.json:ParticleManagerMixin from mod biomeparticleweather::handler$zhg000$biomeparticleweather$render exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.injection.selectors.TargetSelectors.validate(TargetSelectors.java:346)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.readAnnotation(InjectionInfo.java:369)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:340)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:331)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo.<init>(CallbackInjectionInfo.java:48)
+[18 September 2025 18:53:17 PM] 	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+[18 September 2025 18:53:17 PM] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+[18 September 2025 18:53:17 PM] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo$InjectorEntry.create(InjectionInfo.java:196)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.parse(InjectionInfo.java:664)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.prepareInjections(MixinTargetContext.java:1399)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.prepareInjections(MixinApplicatorStandard.java:731)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:315)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:246)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:437)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:418)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:352)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:237)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202)
+[18 September 2025 18:53:17 PM] 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:435)
+[18 September 2025 18:53:17 PM] 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:336)
+[18 September 2025 18:53:17 PM] 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:231)
+[18 September 2025 18:53:17 PM] 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+[18 September 2025 18:53:17 PM] 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[18 September 2025 18:53:17 PM] 	at knot//net.minecraft.class_757.<init>(class_757.java:140)
+[18 September 2025 18:53:17 PM] 	at knot//net.minecraft.class_310.<init>(class_310.java:646)
+[18 September 2025 18:53:17 PM] 	at knot//net.minecraft.client.main.Main.main(Main.java:249)
+[18 September 2025 18:53:17 PM] 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:506)
+[18 September 2025 18:53:17 PM] 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+[18 September 2025 18:53:17 PM] 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[18 September 2025 18:53:17 PM] [Render thread/ERROR] Mixin apply for mod horizonfix failed horizonfix.client.mixins.json:HorizonFixClientFogColorBlendMixin from mod horizonfix -> net.minecraft.class_758: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException Critical injection failure: @Inject annotation on horizonfix$blendSunriseFog could not find any targets matching 'getFogColor' in net/minecraft/class_758. No refMap loaded. [INJECT_PREPARE Applicator Phase -> horizonfix.client.mixins.json:HorizonFixClientFogColorBlendMixin from mod horizonfix -> Prepare Injections -> handler$cki000$horizonfix$blendSunriseFog(Lnet/minecraft/class_4184;FLnet/minecraft/class_638;IFZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V -> Parse ->  -> Validate Targets]
+[18 September 2025 18:53:17 PM] ---- Minecraft Crash Report ----
+[18 September 2025 18:53:17 PM] // I bet Cylons wouldn't have this problem.
+[18 September 2025 18:53:17 PM] 
+[18 September 2025 18:53:17 PM] Time: 2025-09-18 18:53:17
+[18 September 2025 18:53:17 PM] Description: Initializing game
+[18 September 2025 18:53:17 PM] 
+[18 September 2025 18:53:17 PM] java.lang.RuntimeException: Mixin transformation of net.minecraft.class_758 failed
+[18 September 2025 18:53:17 PM] 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:440)
+[18 September 2025 18:53:17 PM] 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:336)
+[18 September 2025 18:53:17 PM] 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:231)
+[18 September 2025 18:53:17 PM] 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+[18 September 2025 18:53:17 PM] 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[18 September 2025 18:53:17 PM] 	at knot//net.minecraft.class_757.<init>(class_757.java:140)
+[18 September 2025 18:53:17 PM] 	at knot//net.minecraft.class_310.<init>(class_310.java:646)
+[18 September 2025 18:53:17 PM] 	at knot//net.minecraft.client.main.Main.main(Main.java:249)
+[18 September 2025 18:53:17 PM] 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:506)
+[18 September 2025 18:53:17 PM] 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+[18 September 2025 18:53:17 PM] 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[18 September 2025 18:53:17 PM] Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:381)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:237)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202)
+[18 September 2025 18:53:17 PM] 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:435)
+[18 September 2025 18:53:17 PM] 	... 10 more
+[18 September 2025 18:53:17 PM] Caused by: org.spongepowered.asm.mixin.throwables.MixinApplyError: Mixin [horizonfix.client.mixins.json:HorizonFixClientFogColorBlendMixin from mod horizonfix] from phase [DEFAULT] in config [horizonfix.client.mixins.json] FAILED during APPLY
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinError(MixinProcessor.java:686)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinApplyError(MixinProcessor.java:637)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:368)
+[18 September 2025 18:53:17 PM] 	... 13 more
+[18 September 2025 18:53:17 PM] Caused by: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Critical injection failure: @Inject annotation on horizonfix$blendSunriseFog could not find any targets matching 'getFogColor' in net/minecraft/class_758. No refMap loaded. [INJECT_PREPARE Applicator Phase -> horizonfix.client.mixins.json:HorizonFixClientFogColorBlendMixin from mod horizonfix -> Prepare Injections -> handler$cki000$horizonfix$blendSunriseFog(Lnet/minecraft/class_4184;FLnet/minecraft/class_638;IFZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V -> Parse ->  -> Validate Targets]
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.injection.selectors.TargetSelectors.validate(TargetSelectors.java:346)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.readAnnotation(InjectionInfo.java:369)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:340)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:331)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo.<init>(CallbackInjectionInfo.java:48)
+[18 September 2025 18:53:17 PM] 	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+[18 September 2025 18:53:17 PM] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+[18 September 2025 18:53:17 PM] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo$InjectorEntry.create(InjectionInfo.java:196)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.parse(InjectionInfo.java:664)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.prepareInjections(MixinTargetContext.java:1399)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.prepareInjections(MixinApplicatorStandard.java:731)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:315)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:246)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:437)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:418)
+[18 September 2025 18:53:17 PM] 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:352)
+[18 September 2025 18:53:17 PM] 	... 13 more
+[18 September 2025 18:53:17 PM] 
+[18 September 2025 18:53:17 PM] 
+[18 September 2025 18:53:17 PM] A detailed walkthrough of the error, its code path and all known details is as follows:
+[18 September 2025 18:53:17 PM] ---------------------------------------------------------------------------------------
+[18 September 2025 18:53:17 PM] 
+[18 September 2025 18:53:17 PM] -- Head --
+[18 September 2025 18:53:17 PM] Thread: Render thread
+[18 September 2025 18:53:17 PM] Stacktrace:
+[18 September 2025 18:53:17 PM] 	at knot//net.minecraft.client.main.Main.main(Main.java:249)
+[18 September 2025 18:53:17 PM] 
+[18 September 2025 18:53:17 PM] -- Initialization --
+[18 September 2025 18:53:17 PM] Details:
+[18 September 2025 18:53:17 PM] 	Modules: 
+[18 September 2025 18:53:17 PM] 		ADVAPI32.dll:Advanced Windows 32 Base API:10.0.26100.3624 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		COMCTL32.dll:User Experience Controls Library:6.10 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		CRYPT32.dll:Crypto API32:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		CRYPTBASE.dll:Base cryptographic API DLL:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		CRYPTSP.dll:Cryptographic Service Provider API:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		CoreMessaging.dll:Microsoft CoreMessaging Dll:10.0.26100.4202 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		CoreUIComponents.dll:Microsoft Core UI Components Dll:10.0.26100.5074:Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		DBGHELP.DLL:Windows Image Helper:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		DEVOBJ.dll:Device Information Set DLL:10.0.26100.1150 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		DNSAPI.dll:DNS Client API DLL:10.0.26100.1591 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		DWMAPI.DLL:Microsoft Desktop Window Manager API:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		GDI32.dll:GDI Client DLL:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		GLU32.dll:OpenGL Utility Library DLL:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		IMM32.DLL:Multi-User Windows IMM32 API Client DLL:10.0.26100.4484 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		IPHLPAPI.DLL:IP Helper API:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		KERNEL32.DLL:Windows NT BASE API Client DLL:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		KERNELBASE.dll:Windows NT BASE API Client DLL:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		MMDevApi.dll:MMDevice API:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		MSCTF.dll:MSCTF Server DLL:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		MpOav.dll:IOfficeAntiVirus Module:4.18.25080.5 (aec027e97d1d7ab25370672d0fb4548480483a83):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		NSI.dll:NSI User-mode interface DLL:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		NTASN1.dll:Microsoft ASN.1 API:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		OLEAUT32.dll:OLEAUT32.DLL:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		Ole32.dll:Microsoft OLE for Windows:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		OpenAL.dll:Main implementation library:1.23.1:
+[18 September 2025 18:53:17 PM] 		POWRPROF.dll:Power Profile Helper DLL:10.0.26100.4202 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		PSAPI.DLL:Process Status Helper:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		Pdh.dll:Windows Performance Data Helper DLL:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		RPCRT4.dll:Remote Procedure Call Runtime:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		SETUPAPI.dll:Windows Setup API:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		SHCORE.dll:SHCORE:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		SHELL32.dll:Windows Shell Common Dll:10.0.26100.4768 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		SspiCli.dll:Security Support Provider Interface:10.0.26100.6584 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		UMPDC.dll:User Mode Power Dependency Coordinator:10.0.26100.1301 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		USER32.dll:Multi-User Windows USER API Client DLL:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		USERENV.dll:Userenv:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		VCRUNTIME140.dll:Microsoft� C Runtime Library:14.38.33135.0:Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		VERSION.dll:Version Checking and File Installation Libraries:10.0.26100.1150 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		WINHTTP.dll:Windows HTTP Services:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		WINMM.dll:MCI API DLL:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		WINSTA.dll:Winstation Library:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		WINTRUST.dll:Microsoft Trust Verification APIs:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		WS2_32.dll:Windows Socket 2.0 32-Bit DLL:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		WTSAPI32.dll:Windows Remote Desktop Session Host Server SDK APIs:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		amsi.dll:Anti-Malware Scan Interface:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		apphelp.dll:Application Compatibility Client Library:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		awt.dll:OpenJDK Platform binary:**IPADDRESS**:Microsoft
+[18 September 2025 18:53:17 PM] 		bcrypt.dll:Windows Cryptographic Primitives Library:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		bcryptPrimitives.dll:Windows Cryptographic Primitives Library:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		cfgmgr32.dll:Configuration Manager DLL:10.0.26100.4202 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		clbcatq.dll:COM+ Configuration Catalog:2001.12.10941.16384 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		combase.dll:Microsoft COM for Windows:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		cryptnet.dll:Crypto Network Related API:10.0.26100.3624 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		dbgcore.DLL:Windows Core Debugging Helpers:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		dinput8.dll:Microsoft DirectInput:10.0.26100.1 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		drvstore.dll:Driver Store API:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		dxcore.dll:DXCore:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		extnet.dll:OpenJDK Platform binary:**IPADDRESS**:Microsoft
+[18 September 2025 18:53:17 PM] 		fastprox.dll:WMI Custom Marshaller:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		fwpuclnt.dll:FWP/IPsec User-Mode API:10.0.26100.3915 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		gdi32full.dll:GDI Client DLL:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		glfw.dll:GLFW 3.4.0 DLL:3.4.0:GLFW
+[18 September 2025 18:53:17 PM] 		icm32.dll:Microsoft Color Management Module (CMM):10.0.26100.2314 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		imagehlp.dll:Windows NT Image Helper:10.0.26100.4202 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		inputhost.dll:InputHost:10.0.26100.5074 (WinBuild.160101.0800):Microsoft Corporation
+[18 September 2025 18:53:17 PM] 		java.dll:OpenJDK Platform binary:**IPADDRESS**:Microsoft
+[18 September 2025 18:53:17 PM] 		javaw.exe:OpenJDK Platform binary:**IPADDRESS**:Microsoft
+[18 September 2025 18:53:17 PM] 		jemalloc.dll
+[18 September 2025 18:53:17 PM] 		jimage.dll:OpenJDK Platform binary:**IPADDRESS**:Microsoft
+[18 September 2025 18:53:17 PM] 	Memory slot #1 clockSpeed (GHz): 3.20
+[18 September 2025 18:53:17 PM] 			c2me-fixes-general-threading-issues: Concurrent Chunk Management Engine (Fixes/General/Threading Issues) 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:53:17 PM] 			c2me-fixes-worldgen-vanilla-bugs: Concurrent Chunk Management Engine (Fixes/WorldGen/Vanilla Bugs) 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:53:17 PM] 			c2me-opts-dfc: Concurrent Chunk Management Engine (Optimizations/Density Function Compiler) 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:53:17 PM] 			c2me-opts-math: Concurrent Chunk Management Engine (Optimizations/Math) 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:53:17 PM] 			c2me-opts-worldgen-general: Concurrent Chunk Management Engine (Optimizations/General WorldGen) 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:53:17 PM] 			c2me-rewrites-chunk-serializer: Concurrent Chunk Management Engine (Rewrites/Chunk Serializer) 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:53:17 PM] 			c2me-rewrites-chunk-system: Concurrent Chunk Management Engine (Rewrites/Chunk System) 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:53:17 PM] 			c2me-server-utils: Concurrent Chunk Management Engine (Server Utils) 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:53:17 PM] 			c2me-threading-lighting: Concurrent Chunk Management Engine (Threading/Lighting) 0.3.5+alpha.0.8+1.21.8
+[18 September 2025 18:53:17 PM] 			io_reactivex_rxjava3_rxjava: rxjava 3.1.8
+[18 September 2025 18:53:17 PM] 			net_objecthunter_exp4j: exp4j 0.4.8
+[18 September 2025 18:53:17 PM] 			org_reactivestreams_reactive-streams: reactive-streams 1.0.4
+[18 September 2025 18:53:17 PM] 		cavedust: Cave Dust 3.0.1
+[18 September 2025 18:53:17 PM] 		chat_heads: Chat Heads 0.13.19
+[18 September 2025 18:53:17 PM] 			com_moandjiezana_toml_toml4j: toml4j 0.7.2
+[18 September 2025 18:53:17 PM] 		clean-debug: Clean F3 0.4.9
+[18 September 2025 18:53:17 PM] 		cloth-config: Cloth Config v19 19.0.147
+[18 September 2025 18:53:17 PM] 		cobweb: Cobweb 1.3.3
+[18 September 2025 18:53:17 PM] 		connected-doors: Connected Doors 1.3+1.21.2
+[18 September 2025 18:53:17 PM] 		cosmos: Cosmos 1.0.0-1.21.8
+[18 September 2025 18:53:17 PM] 		day-counter: DayCounter 1.2.1+fabric-mc1.21-1.21.8
+[18 September 2025 18:53:17 PM] 		dualbar: DualBar 1.0
+[18 September 2025 18:53:17 PM] 		e4mc_minecraft: e4mc 5.4.1
+[18 September 2025 18:53:17 PM] 		eg_fix_horizontal_camera_lag: Fix Horizontal Camera Lag 1.1.1
+[18 September 2025 18:53:17 PM] 		entity_model_features: Entity Model Features 3.0.1
+[18 September 2025 18:53:17 PM] 			org_apache_httpcomponents_httpmime: httpmime 4.5.10
+[18 September 2025 18:53:17 PM] #@!@# Game crashed! Crash report saved to: #@!@# **USERSDIR**\instances\Minecraft1218withFabric\crash-reports\crash-2025-09-18_18.53.17-client.txt
+[18 September 2025 18:53:17 PM] Oh no. Minecraft crashed. Please check the logs for any errors and provide these logs when asking for support.
+[18 September 2025 18:53:17 PM] Checking for updated files!
+[18 September 2025 18:53:19 PM] Copied Log to clipboard
